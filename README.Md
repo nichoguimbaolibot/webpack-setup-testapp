@@ -19,5 +19,8 @@ npm run build-dev
 ```
 
 ## Running
+npm run start || yarn start
+
+or
 
 Open the file `dist/index.html` in your browser
